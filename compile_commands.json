@@ -1,0 +1,21 @@
+[
+  {
+    "directory": "/home/ericx/ostep-code",
+    "arguments": [
+      "gcc",
+      "-Wall",
+      "-I/usr/include"
+    ],
+    "file": "intro/io.c"
+  },
+
+  {
+    "directory": "/home/ericx/ostep-code",
+    "arguments": [
+      "gcc",
+      "-Wall",
+      "-I/usr/include"
+    ],
+    "file": "cpu-api/p1.c"
+  }
+]
